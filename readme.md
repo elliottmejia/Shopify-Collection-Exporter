@@ -1,4 +1,4 @@
-# Shopify Collection exporter
+# Shopify Collection Exporter
 
 Simple Shopify Collection to CSV for Python utilizing the GraphQL API. Written in a pinch, so the code sucks, but doesn't it all...
 
