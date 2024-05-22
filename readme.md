@@ -24,7 +24,8 @@ The graphql query is not comprehensive to possible collection schema as per Shop
     ```
 - Initialize a private app on Shopify
 - Update .env file with your Shopify store and access token
-- Update the query to your liking according to the docs above
+- Update the query in collection-get.py to your liking according to the docs above
+- Update the csv parser manually (sorry)
 - Run the script
     ```bash
     python collection-get.py
