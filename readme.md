@@ -2,7 +2,7 @@
 
 THIS IS ONLY TESTED TO RUN LOCALLY.
 
-Simple Shopify Collection to CSV for Python utilizing the GraphQL API. Written in a pinch, so the code sucks, but doesn't it all...
+Simple Shopify Collection to CSV in Python utilizing the GraphQL API. Written in a pinch, so the code sucks, but doesn't it all...
 
 Documentation: https://shopify.dev/docs/api/admin-graphql/2023-07/objects/collection
 
